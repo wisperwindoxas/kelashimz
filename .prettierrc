@@ -10,6 +10,7 @@
 		"<THIRD_PARTY_MODULES>",
 		"^@/components/(.*)$",
 		"^@/screens/(.*)$",
+		"^@/store/(.*)$",
 		"^@/ui/(.*)$",
 		"^@/services/(.*)$",
 		"^@/types/(.*)$",
